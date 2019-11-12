@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //this is the function for twoSum
     vector<int> twoSum(vector<int>& a, int t) {
          vector<int> ans;
   
