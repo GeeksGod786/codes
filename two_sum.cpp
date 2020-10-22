@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& a, int t) {
+    //this is the function for twoSum
+    vector<int> twoSumSolution(vector<int>& a, int t) {
          vector<int> ans;
   
           int n=a.size();
